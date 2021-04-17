@@ -1,2 +1,2 @@
 # City
-I Create game fof shotter on 3D.
+I Create game of trainnig on 3D.
